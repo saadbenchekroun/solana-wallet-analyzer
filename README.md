@@ -82,13 +82,8 @@ The analyzer expects CSV files with the following columns:
 
 Example:
 
-```csv
+![image](https://github.com/user-attachments/assets/209808ea-1785-4df5-bbca-9db11fece163)
 
-  0123456789
-  SignatureTimeActionFromToAmountFlowValueDecimalsTokenAddress2wGu2zxSQofa13rd...1712774900TRANSFER5Q544fKrFoe6ts...A5L4h7nN5NHH7q...6217979666381419in-196NF4qtCm2oStKYs...
-
-
-```
 
 ## Usage
 
