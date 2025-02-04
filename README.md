@@ -39,7 +39,7 @@ A Next.js application that analyzes CSV files containing Solana wallet transacti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/solana-wallet-analyzer.git
+git clone https://github.com/saadbenchekroun/solana-wallet-analyzer.git
 cd solana-wallet-analyzer
 ```
 
